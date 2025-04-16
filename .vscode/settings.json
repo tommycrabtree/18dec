@@ -1,1 +1,12 @@
-{}
+{
+    "mssql.connections": [
+        {
+            "server": "18-dec.database.windows.net",
+            "database": "18decDb",
+            "user": "appuser",
+            "password": "",
+            "authenticationType": "SqlLogin",
+            "encrypt": "Mandatory"
+        }
+    ]
+}
